@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.universal{
+    font-size: 28px
+}
+
+.yellow{
+    background-color:yellow;
+}
+
+.black{
+    background-color:black;
+    color:white;
+}
